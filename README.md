@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# **RESUME BOOK**
 
-You can use the [editor on GitHub](https://github.com/BSummerproject/BSP-team1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a website made by Adebola Ajayi, Dinaol Tadesse and Jerricka Smith using GitHub Pages. We were inspired to develop a website for our resume detaling projects and internships.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Adebola Ajayi
+  My name is Adebola Ajayi and I am a rising sophomore studying computer science at Howard University. I was born and raised in Lagos Nigeria but I stay in Rockville Maryland currently. To check out my linkedin profile you can [click here!](https://www.linkedin.com/in/adebolaajayi)
+  I am a very sporty person and I enjoy playing sports such as soccer and sport based video games such as fifa and nba 2k. I also enjoy reading and programming. My ambition is to alleviate hunger in my country through computerized farming which I hope to achieve using artificial intelligence and machine learning. For more information you can check out [my page]
 
-### Markdown
+### Dinaol Tadesse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Jerricka Smith
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BSummerproject/BSP-team1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
