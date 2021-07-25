@@ -8,6 +8,11 @@ This is a website made by Adebola Ajayi, Dinaol Tadesse and Jerricka Smith using
 
 ### Dinaol Tadesse
 
+My name is **Dinaol Tadesse** and I am a **Computer Engineering** graduate at **Jackson State University**.  
+My motivation and aspiration comes from the impact I am able to create on the lives of people. 
+I am very passionate in any kind of project that is geared towards helping people. 
+My **Linkedin profile** can be found [Here](https://www.linkedin.com/in/dinaol-tadesse/).
+
 ### Jerricka Smith
 
 
