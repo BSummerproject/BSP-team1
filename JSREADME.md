@@ -6,4 +6,4 @@ I hope to expose others to different careers in the STEM field, as well as, have
 
 My hobbies include traveling, learning new things, watching and playing basketball, riding my bike, dancing, and skating.  
 
-My linked-in profile can be viewed here [Jarricka Smith] (http://www.linkedin.com/in/jarricka-smith). Click [here](https://jjsmith1.github.io) to review my resume .
+My linked-in profile can be viewed here [Jarricka Smith](http://www.linkedin.com/in/jarricka-smith). Click [here](https://jjsmith1.github.io) to review my resume .
