@@ -1,7 +1,7 @@
 # Adebola Ajayi
 ![Adebola](https://media-exp1.licdn.com/dms/image/C4D03AQFqwQEtF0FmFg/profile-displayphoto-shrink_400_400/0/1602720670683?e=1632960000&v=beta&t=xG6kSWW-b_XzKY7fF0oRxswCqizRnn06dw34-hL3Am4)
 
-**Hello :wave: and Welcome**,
+**Hello and Welcome**,
   I am Adebola Ajayi a Computer Science Sophomore from Howard University. I was born and raised in Lagos Nigeria but I stay in Maryland currently. I am fascinated by Artificial Intelligence and Machine learning and I hope to use them to improve the state of agriculture in my country. 
 
 
