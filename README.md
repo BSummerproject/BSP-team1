@@ -1,6 +1,6 @@
 # **RESUME BOOK**
 
-This is a website made by Adebola Ajayi, Dinaol Tadesse and Jerricka Smith using GitHub Pages. We were inspired to develop a website for our resume detaling projects and internships.
+This is a website made by Adebola Ajayi, Dinaol Tadesse and Jarricka Smith using GitHub Pages. We were inspired to develop a website for our resume detaling projects and internships.
 
 ### Adebola Ajayi
   My name is Adebola Ajayi and I am a rising sophomore studying computer science at Howard University. I was born and raised in Lagos Nigeria but I stay in Rockville Maryland currently. To check out my linkedin profile you can [click here!](https://www.linkedin.com/in/adebolaajayi)
