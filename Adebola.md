@@ -33,3 +33,5 @@ Worked for three weeks tutoring ninth grade students Algebra 1 and helped organi
 *Google Developers Student Club | National Society of Black Engineers (NSBE)*
 
 For more information, endeavor to check out my [resume!](https://flowcv.io/resume/feedback/FjXnOIpyLgV3)
+
+###Click to go to [Home Page](https://bsummerproject.github.io/BSP-team1/)
