@@ -1,7 +1,8 @@
 # Dinaol Tadesse
-![ME_IMG](https://user-images.githubusercontent.com/32272045/126913015-57d1849d-34b8-4ece-ac62-8ff8c05aac8e.png)
+![MY_IMG](https://user-images.githubusercontent.com/32272045/126913015-57d1849d-34b8-4ece-ac62-8ff8c05aac8e.png)
 
-**Hello :wave: and Welcome**,
+### **Hello and Welcome,**
+
 I am Dinaol Tadesse a Computer Engineering Graduate from Jackson State University. In one of the summer internships I participated, I was able to learn more about myself and what fuels and motivates me. On that summer project I learnt that I am very passionate in projects which are geared towards helping people. I want to create an impact in people's lives.
 
 
@@ -29,4 +30,5 @@ I was inspired to work in this project as it has the capability of saving thousa
 
 ### ACTIVITIES & HONORS
 
-*CodePath iOS Tech Fellow | National Society of Black Engineers (NSBE) | National Honors Society | TMCF 2019 Leadership Institute | Robotics Club | National Society of High School Scholars (NSHSS)*
+CodePath iOS Tech Fellow | National Society of Black Engineers (NSBE) | National Honors Society | TMCF 2019 Leadership Institute | Robotics Club | National Society of High School Scholars (NSHSS)
+
