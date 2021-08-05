@@ -1,9 +1,71 @@
-My name is **Jarricka Smith ** I am a ** Technology Management (IT)/Cybersecurity certified** Alumna of *North Carolina Agricultural & Technical State University*.
+## Jarricka Smith 
+1221 Canyon Rock Court, Raleigh, NC, 27610
+[Jarricka Smith](http://www.linkedin.com/in/jarricka-smith)
 
-My personal motivation is financial freedom and sharing my knowledge with others.  My longterm goal is to create a resource and community center in my hometown.
+Hello and welcome to my page. I have bounced around trying to decide which career track to take.  I finally chose the Technology field!!! I am a recent masters graduate from **North Carolina A&T State University**.  My passion is sharing what I have learned with others with hopes of providing resources, information, and or tools to  make their education journey easier. Thank you for viewing!
 
-I hope to expose others to different careers in the STEM field, as well as, have classes for constructive coping mental health mechanisms (meditation, yoga,crafts, sports activities, etc). 
+ **Education**
 
-My hobbies include traveling, learning new things, watching and playing basketball, riding my bike, dancing, and skating.  
+North Carolina A&T State University, 						                                     Greensboro, NC 
+B.S. Biology (Cum Laude) 	                  						                              May, 2011
 
-My linked-in profile can be viewed here [Jarricka Smith](http://www.linkedin.com/in/jarricka-smith). Click [here](https://jjsmith1.github.io) to review my resume .
+North Carolina Central University, 						      	                                Durham, NC
+B.S.  Athletic Training (Sum Cum Laude)						                                    May, 2019
+
+North Carolina A&T State University, 						                                     Greensboro, NC
+M.S. Technology Management (Information Technology) Cybersecurity certification      May, 2021
+
+CERTIFICATION: Green Belt Six Sigma (2019)
+
+**Projects**
+
+     Code analysis and review 
+     Threat modeling 
+     Risk analysis 
+     Network trafficking using WireShark 
+     Network security auditing using NMAP 
+
+**Experience**
+
+    Social & Scientific Systems						                       	  		          Durham, NC	
+  **Laboratory Technician/Support II					                        	         May 2019-Present** 
+
+    Precision Fabric Group | Viking LLC					 		                            Greensboro, NC | Jamestown, NC 
+  **Chemistry QC Tech. III | QC Tech. 					                       	        Feb 2014-Apr 2016 | Jul 2013-Jan 2014** 
+
+     Solstas Lab Partners											                                       Greensboro, NC	
+  **LAB TECHNICIAN/ SPECIMEN PROCESSOR						                               July 2011-July 2013**
+
+  **Skills**
+
+**Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
+  **Secure Software Development and Vulnerability Exposure Tools**: Software Development Life Cycle (SDLC), MS Threat Modeling with MS SDL, Visual Code Grepper, and Flawfinder. 
+  **Technical Skills**: Command Line Interface and Powershell.
+  **Administrative Skills**: Microsoft Office Certified, Access Database Certified, SOP writing and review. 
+
+ **Coursework**
+
+Advanced Network Security Applications
+
+Computer System Security
+
+Digital Communications
+
+Microsoft Access Master class
+
+Microsoft Excel Beginner to Advanced
+
+Principal of Computer Networking
+
+Research Methods for Technology Management
+
+**Student Involvment/Activities**
+
+CodePath: Intro to Cybersecurity Bootcamp Spring 2021
+
+Bloomberg B.E.S.T program Spring 2021
+
+![A&T Four](https://upload.wikimedia.org/wikipedia/commons/3/31/A%26T_four_statue_2000.jpg)
+
+
+Click [here](https://github.com/BSummerproject/BSP-team1)  return to the main page. 
