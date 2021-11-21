@@ -1,5 +1,5 @@
 ## Jarricka Smith 
-1221 Canyon Rock Court, Raleigh, NC, 27610
+Raleigh, NC
 [Jarricka Smith](http://www.linkedin.com/in/jarricka-smith)
 
 Hello and welcome to my page. I have bounced around trying to decide which career track to take.  I finally chose the Technology field!!! I am a recent masters graduate from **North Carolina A&T State University**.  My passion is sharing what I have learned with others with hopes of providing resources, information, and or tools to  make their education journey easier. Thank you for viewing!
